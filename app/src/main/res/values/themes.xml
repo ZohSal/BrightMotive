@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.BrightMotive" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- No Material3 XML -->
+    </style>
+</resources>
